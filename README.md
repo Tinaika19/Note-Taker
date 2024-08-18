@@ -32,6 +32,7 @@ This application allows you to write and save notes, enabling them to organize t
   **THEN** I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears.
 
 ## Screenshot
+![Screenshot of Note Taker Application](./assets/css/note.JPG)
 
 ## Link
-![Screenshot of Note Taker Application](assets/images/note.JPG)
+
