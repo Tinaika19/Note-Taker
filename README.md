@@ -34,3 +34,4 @@ This application allows you to write and save notes, enabling them to organize t
 ## Screenshot
 
 ## Link
+![Screenshot of Note Taker Application](assets/images/note.JPG)
